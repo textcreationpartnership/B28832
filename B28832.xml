@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Walter Williams, and Elizabeth his wife, appealants. Richard Reed the Younger, respondent. The appeal is to be relieved against two decrees, the first made by the Lords Keeper Coventry, Anno 1639. (46 years since) the second by the Earl of Nottingham, late Lord Chancellor, 32 Car. II.</title>
+            <author>Williams, Walter.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28832</idno><idno type="EEBO-CITATION">99887522</idno>
+  <idno type="VID">190501</idno>
+  <idno type="EEBO-PROQUEST">2248539306</idno>
+  
+            <idno type="STC">Wing R665A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[36]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R227816</idno>
+            <idno type="PROQUEST">ocm99887522</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887522e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190501)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[102])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Walter Williams, and Elizabeth his wife, appealants. Richard Reed the Younger, respondent. The appeal is to be relieved against two decrees, the first made by the Lords Keeper Coventry, Anno 1639. (46 years since) the second by the Earl of Nottingham, late Lord Chancellor, 32 Car. II.</title>
+                  <author>Williams, Walter.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Text in two columns, with genealogical table.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Reed, Richard, fl. 1685.</term>
+               <term type="personal_name">Williams, Elizabeth, fl. 1690.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land tenure --  England --  Early works to 1800.</term>
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190501:1"/>
+            <head>
+               <list>
+                  <head>APPEALANTS.</head>
+                  <item>
+                     <hi>WALTER WILLIAMS,</hi>
+                  </item>
+                  <item>And <hi>ELIZABETH</hi> his Wife</item>
+               </list> RICHARD REED <hi>the Younger,</hi> RESPONDENT. The Appeal is to be relieved against two Decrees, the first made by the Lord Keeper <hi>Coventry, Anno</hi> 1639. (46 Years since) the Second by the Earl of <hi>Nottingham,</hi> late Lord Chancellor, 32 <hi>Car.</hi> II.</head>
+            <head>The CASE of the RESPONDENT.</head>
+            <p>
+               <note place="margin">10 <hi>Jacob.</hi>
+               </note>
+               <hi>JOhn Reed</hi> seized of the two Meadows in question, demiseth them to <hi>Katharine Reed,</hi> his Sister, for 99 Years, and after con<g ref="char:EOLhyphen"/>veys the Inheritance to <hi>Edward Reed,</hi> his Brother. <hi>Katharine</hi> enters, and by Will deviseth the Profits, being 100 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> in this Manner.</p>
+            <list>
+               <item>To the Poor of <hi>Breeden</hi> 20 <hi>l. per Annum.</hi>
+               </item>
+               <item>To <hi>Elinor,</hi> Daughter to her Brother <hi>John Reed</hi> 20 <hi>l. per Annum.</hi>
+               </item>
+               <item>To <hi>Edward,</hi> her Brother, 15 <hi>l. per annum.</hi>
+               </item>
+               <item>To her Brother <hi>Foulke Reed</hi> 15 <hi>l. per annum.</hi> And</item>
+               <item>To her Brother <hi>Richard Reed,</hi> the Elder, 30 <hi>l. per annum,</hi> to whom she gave the Lease to dispose of accordingly.</item>
+               <item>And after the Decease of these <hi>Legatees,</hi> she gave the Lease to the GENERAL HEIRS.</item>
+            </list>
+            <p>
+               <note place="margin">
+                  <hi>An.</hi> 1639.</note>
+               <hi>Edward Reed</hi> questions this Lease in <hi>Chancery,</hi> as a Mortgage for 1000 <hi>l.</hi> and it was <hi>Anno</hi> 1639 decreed accordingly, and the 1000 <hi>l.</hi> divided amongst the Legatees, whereof <hi>Elinor,</hi> now married to <hi>Rich<g ref="char:EOLhyphen"/>ard Reed</hi> the younger, was to have 140 <hi>l.</hi> for her share.</p>
+            <p>
+               <note place="margin">1652.</note>And after divers Endeavors to reverse this Deecree (but in vain) <hi>Richard Reed,</hi> the Younger, who had married <hi>Elinor,</hi> who was the GENERAL HEIR of the whole Family, buyes in this Decree of <hi>Edward,</hi> to secure the Lease to <hi>Elinor</hi> and her Children, and that <hi>Katharine</hi>'s Will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight be performed in kind, and paid 250 <hi>l.</hi> for it, and lost the 140 <hi>l.</hi> which was to come to him by the Decree, which considering that <hi>Elinor,</hi> and the other Legatees were all living, was more than the Lease was worth.</p>
+            <p>
+               <note place="margin">1662.</note>Afterwards <hi>Richard Reed,</hi> the Elder, who had the Estate in Law, assigns it to <hi>Richard Brent, Ann Brent,</hi> and others in trust for <hi>Wil<g ref="char:EOLhyphen"/>liam Reed</hi> (Son of <hi>Elinor,</hi> who was now dead) which <hi>William Reed</hi> was then the GENERAL HEIR.</p>
+            <p>
+               <note place="margin">1670.</note>
+               <hi>William,</hi> the Son, assigns his Interest to <hi>Richard Reed</hi> the Younger (his Father) the now Respondent.</p>
+            <p>
+               <note place="margin">Note,</note>
+               <hi>Richard Reed</hi> the Younger, the now Respondent, had now both Interests in himself.</p>
+            <p>
+               <note place="margin">1671.</note>
+               <hi>Richard</hi> the Younger (soon after) settles the said <hi>William</hi> in Mar<g ref="char:EOLhyphen"/>riage with the Petitioner <hi>Elizabeth,</hi> and thereupon settles 500 <hi>l. per Annum</hi> (the best of his Estate) upon him, and a Joynture of 250 <hi>l. per Annum</hi> to the Petitioner <hi>Elizabeth.</hi>
+            </p>
+            <p>The Petitioner <hi>Elizabeth,</hi> after the Death of <hi>William,</hi> which was about four Years after, and being his Executrix, not content with her Joynture of 250 <hi>l.</hi> claims this Lease against this Assignment of her late Husband.</p>
+            <p>
+               <note place="margin">26 <hi>Junii</hi> 32 <hi>Car.</hi> 2.</note>And thereupon arose cross Suits in <hi>Chancery,</hi> upon hearing where<g ref="char:EOLhyphen"/>of it was decreed for the Respondent <hi>Richard Reed</hi> the Younger, and the Assignment of <hi>William</hi> decreed to be good.</p>
+            <p>
+               <note place="margin">22 <hi>April.</hi> 33 <hi>Car.</hi> 2</note>And upon Re-hearing the Decree is confirmed.</p>
+            <p>And afterwards a Bill of Review is brought, which upon Hear<g ref="char:EOLhyphen"/>ing was dismiss'd.</p>
+            <p>
+               <note place="margin">
+                  <hi>Oct.</hi> 33. <hi>Car.</hi> 2.</note>Then at last the now Petitioners do assign all their Interest in the said two Meadows to the Respondent <hi>Richard Reed</hi> the Younger.</p>
+            <p>
+               <hi>All which the Petitioners do endeavor to avoid by this their Appeal upon Suggestion.</hi>
+            </p>
+            <p>That the first Decree made 46 years since was unjust, and that all the other Proceedings were in pursuance of that Decree, and there<g ref="char:EOLhyphen"/>fore to be laid aside.</p>
+            <div type="part">
+               <head>To which is Answered.</head>
+               <p n="1">1. That Suggestion appeares to be a plain mistake; for the last De<g ref="char:EOLhyphen"/>cree was chiefly grounded upon the Assignment made from <hi>Richard</hi> the Elder to the <hi>Brents,</hi> and from them to <hi>William,</hi> and from him to the Respondent <hi>Richard Reed</hi> the Younger, which Assignments were made in performance of the Will of <hi>Katharine Reed,</hi> which was made in the year 1623. and not in pursuance of the first Decree, but ra<g ref="char:EOLhyphen"/>ther contrary to it.</p>
+               <p n="2">2. The Respondent hopeth, that a Decree made in the year 1639, and no Appeal from it in any Parliament since that time until now, will be presumed to be just and not disparaged by the Petitioners, alleadging it to be unjust, or saying, that the Lease was absolute.</p>
+               <p n="3">3. But whether that Decree be just or unjust, it cannot affect this Cause: For if it were unjust, it was so only against <hi>William,</hi> who had the legal Interest in the Lease. But <hi>William</hi> by his Assignment made to the Respondent <hi>Richard Reed,</hi> (who had purchased the be<g ref="char:EOLhyphen"/>nefit of that Decree,) hath purged that wrong, and hath thereby dis<g ref="char:EOLhyphen"/>abled himself and his Executrix from Appealing from it.</p>
+               <p n="4">4. <hi>Richard Reed</hi> the Respondent, in the settlement of his own Estate of Inheritance upon his Son <hi>William,</hi> at his Marriage gave his Son a recompence to more then ten times the value of this Lease.</p>
+            </div>
+            <div type="part">
+               <head>So the Case in short is,</head>
+               <p>The Lease is devised to <hi>Richard</hi> the Elder, in trust (after some Annuities for life) for the GENERAL HEIR.</p>
+               <p>This GENERAL HEIR is <hi>William Reed,</hi> Eldest Son of <hi>Elinor,</hi> who was Daughter of <hi>John Reed,</hi> and the Wife of <hi>Richard Reed</hi> the Younger.</p>
+               <p>This Lease <hi>Anno</hi> 1639, is Decreed to be a Mortgage for 1000 l.</p>
+               <p>
+                  <hi>Richard</hi> the Younger to preserve this Lease for his Family, bought in this Decree and quieted the Estate.</p>
+               <p>
+                  <hi>Richard Reed</hi> the Elder in pursuance of the Will, assigns the Lease in trust for <hi>William</hi> the GENERAL HEIR.</p>
+               <p>
+                  <hi>William</hi> afterwards assigns to <hi>Richard</hi> the Younger (his Father) the now Respondent.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>So here is a clear Title in</hi> Richard <hi>the Younger.</hi>
+               </head>
+               <p>And <hi>William</hi> hath by his Assignment barr'd himself, and by con<g ref="char:EOLhyphen"/>sequence his Executrix from having any Appeal, and both the E<g ref="char:EOLhyphen"/>states (the legal Estate from <hi>Richard</hi> the Elder, and the equity of Redemption by the Decree from <hi>Edward</hi>) are vested in the Respon<g ref="char:EOLhyphen"/>dent <hi>Richard</hi> the Younger.</p>
+               <p>It is to be observed that <hi>Katharine</hi> by her Will, intended to keep this Lease in the Name and Family of the <hi>Reeds,</hi> and so did <hi>Richard Reed</hi> the Elder, and <hi>Richard Reed</hi> the Younger, and so it now conti<g ref="char:EOLhyphen"/>nues and is like to do.</p>
+               <p>And the Petitioners being Strangers, endeavour to wrest it out of the Family only by Title of Executorship, without any other con<g ref="char:EOLhyphen"/>sideration against their own, and her Husbands Acts and Deeds.</p>
+            </div>
+            <div type="family_tree">
+               <list>
+                  <item>Giles Reed, <hi>had Issue.</hi>
+                     <list>
+                        <item>1. John Reed, <hi>had Issue.</hi>
+                           <list>
+                              <item>Elinor <hi>Married to</hi> Richard Reed <hi>the Younger, had Issue.</hi>
+                                 <list>
+                                    <item>William Reed, <hi>the</hi> GENERAL HEIR.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>2. Edward Reed, <hi>dead without Issue.</hi>
+                        </item>
+                        <item>3. Foulke Reed, <hi>dead without Issue.</hi>
+                        </item>
+                        <item>4. Richard Reed, <hi>dead without Issue.</hi>
+                        </item>
+                        <item>And 5. Katharine Reed, <hi>dead without Issue.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
